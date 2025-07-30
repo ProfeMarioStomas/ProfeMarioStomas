@@ -1,11 +1,17 @@
-## Hi there 👋
+## Hi there 👋 I'm Mario - welcome to my GitHub profile.
+🎬 I've been programming for over 10 years, and here I share my current code, written in Java and TypeScript.
 
-## 🛠️ Lenguajes, Frameworks y Herramientas
+🎓 I'm also a programming instructor.
+
+🚀 Founder of Bits & Code, a small Chilean start-up
+🧠 Passionate about teaching, automating processes, and writing clean code.
+
+## 🛠️ Languages, Frameworks y Tools
 
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,java,php,cs,dotnet,html,css" />
+  <img src="https://skillicons.dev/icons?i=ts,java,php,cs,dotnet,html,css" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,hibernate,prisma,supabase,sequelize" />
