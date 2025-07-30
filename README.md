@@ -4,6 +4,7 @@
 🎓 I'm also a programming instructor.
 
 🚀 Founder of Bits & Code, a small Chilean start-up
+
 🧠 Passionate about teaching, automating processes, and writing clean code.
 
 ## 🛠️ Languages, Frameworks y Tools
