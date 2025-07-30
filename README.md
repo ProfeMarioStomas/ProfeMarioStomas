@@ -1,12 +1,20 @@
 ## Hi there 👋
 
-## 🛠️ Lenguajes y Herramientas
+## 🛠️ Lenguajes, Frameworks y Herramientas
 
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
-  <img src="https://skillicons.dev/icons?i=bitbucket,github,idea,cloudflare,notion,postman" />
+  <img src="https://skillicons.dev/icons?i=ts,js,java,php,cs,dotnet,html,css" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,hibernate,prisma,supabase,sequelize" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,graphql,react,remix,nestjs,nextjs,jest" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bitbucket,github,npm,idea,cloudflare,workers,notion,postman,apple" />
 </p>
 
 <hr>
