@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Mario - welcome to my GitHub profile.
 
-<img src="https://github.com/ProfeMarioStomas/ProfeMarioStomas/blob/main/Gemini_Generated_Image_5dp2c35dp2c35dp2.png" alt="Github banner">
+<img src="https://github.com/ProfeMarioStomas/ProfeMarioStomas/blob/main/banner-github.png" alt="Github banner">
 
 🎬 I've been programming for over 10 years, and here I share my current code, written in Java and TypeScript.
 
