@@ -10,7 +10,7 @@
 
 🧠 Passionate about teaching, automating processes, and writing clean code.
 
-## 🛠️ Languages, Frameworks y Tools
+## 🛠️ Languages, Frameworks & Tools
 
 <br>
 
